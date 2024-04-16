@@ -4,16 +4,16 @@ steps:
 
 - action: set-font-info
   fontInfo:
-    familyName: Pixelation
+    familyName: Pixelazion
     versionMajor: 0
     versionMinor: 1
 
 - action: compile-fontmake
-  destination: ttf/pixelation.ttf
+  destination: ttf/pixelazion.ttf
   steps:
   - action: decompose-composites
     onlyVariableComposites: true
   - action: drop-unreachable-glyphs
 
 - action: compile-varc
-  destination: ttf-varco/pixelation-glyf-1.ttf
+  destination: ttf-varco/pixelazion-glyf-1.ttf
