@@ -1,0 +1,28 @@
+{
+"name": "space",
+"sources": [
+{
+"name": "<default>",
+"layerName": "<default>"
+},
+{
+"name": "spacing=100",
+"layerName": "spacing=100",
+"location": {
+"spacing": 100
+}
+}
+],
+"layers": {
+"<default>": {
+"glyph": {
+"xAdvance": 350
+}
+},
+"spacing=100": {
+"glyph": {
+"xAdvance": 210
+}
+}
+}
+}

@@ -1,0 +1,196 @@
+{
+"name": "comp.03",
+"sources": [
+{
+"name": "<default>",
+"layerName": "<default>"
+},
+{
+"name": "Outline=100",
+"layerName": "Outline=100",
+"location": {
+"Outline": 100
+}
+}
+],
+"layers": {
+"<default>": {
+"glyph": {
+"components": [
+{
+"name": "comp.01",
+"location": {
+"fuse1a": 0,
+"fuse1b": 0,
+"fuse2a": 0,
+"fuse2b": 0,
+"fuse3a": 0,
+"fuse3b": 0,
+"fuse4a": 0,
+"fuse4b": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+},
+{
+"name": "comp.01",
+"transformation": {
+"translateX": 140,
+"rotation": -180,
+"scaleY": -1
+},
+"location": {
+"fuse1a": 0,
+"fuse1b": 0,
+"fuse2a": 0,
+"fuse2b": 0,
+"fuse3a": 0,
+"fuse3b": 0,
+"fuse4a": 0,
+"fuse4b": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+},
+{
+"name": "comp.01",
+"transformation": {
+"translateX": 140,
+"translateY": 140,
+"rotation": -180
+},
+"location": {
+"fuse1a": 0,
+"fuse1b": 0,
+"fuse2a": 0,
+"fuse2b": 0,
+"fuse3a": 0,
+"fuse3b": 0,
+"fuse4a": 0,
+"fuse4b": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+},
+{
+"name": "comp.01",
+"transformation": {
+"translateX": 140,
+"rotation": 90
+},
+"location": {
+"fuse1a": 0,
+"fuse1b": 0,
+"fuse2a": 0,
+"fuse2b": 0,
+"fuse3a": 0,
+"fuse3b": 0,
+"fuse4a": 0,
+"fuse4b": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+}
+],
+"xAdvance": 500
+}
+},
+"Outline=100": {
+"glyph": {
+"components": [
+{
+"name": "comp.01",
+"location": {
+"fuse1a": 100,
+"fuse1b": 0,
+"fuse2a": 0,
+"fuse2b": 0,
+"fuse3a": 0,
+"fuse3b": 0,
+"fuse4a": 0,
+"fuse4b": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+},
+{
+"name": "comp.01",
+"transformation": {
+"translateX": 140,
+"rotation": -180,
+"scaleY": -1
+},
+"location": {
+"fuse1a": 100,
+"fuse1b": 0,
+"fuse2a": 0,
+"fuse2b": 0,
+"fuse3a": 0,
+"fuse3b": 0,
+"fuse4a": 0,
+"fuse4b": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+},
+{
+"name": "comp.01",
+"transformation": {
+"translateX": 140,
+"translateY": 140,
+"rotation": -180
+},
+"location": {
+"fuse1a": 100,
+"fuse1b": 0,
+"fuse2a": 0,
+"fuse2b": 0,
+"fuse3a": 0,
+"fuse3b": 0,
+"fuse4a": 0,
+"fuse4b": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+},
+{
+"name": "comp.01",
+"transformation": {
+"translateX": 140,
+"rotation": 90
+},
+"location": {
+"fuse1a": 100,
+"fuse1b": 0,
+"fuse2a": 0,
+"fuse2b": 0,
+"fuse3a": 0,
+"fuse3b": 0,
+"fuse4a": 0,
+"fuse4b": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+}
+],
+"xAdvance": 500
+}
+}
+}
+}

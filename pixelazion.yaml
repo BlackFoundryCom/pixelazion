@@ -1,0 +1,19 @@
+steps:
+- action: input
+  source: pixelazion.fontra
+
+- action: set-font-info
+  fontInfo:
+    familyName: Pixelation
+    versionMajor: 0
+    versionMinor: 1
+
+- action: compile-fontmake
+  destination: ttf/pixelation.ttf
+  steps:
+  - action: decompose-composites
+    onlyVariableComposites: true
+  - action: drop-unreachable-glyphs
+
+- action: compile-varc
+  destination: ttf-varco/pixelation-glyf-1.ttf

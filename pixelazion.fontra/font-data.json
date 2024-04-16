@@ -1,0 +1,40 @@
+{
+"unitsPerEm": 1000,
+"fontInfo": {},
+"axes": [
+{
+"name": "Pixel",
+"label": "Pixel",
+"tag": "PIXL",
+"minValue": 0,
+"defaultValue": 0,
+"maxValue": 100
+},
+{
+"name": "Gravity",
+"label": "Gravity",
+"tag": "GRVT",
+"minValue": 0,
+"defaultValue": 0,
+"maxValue": 100
+},
+{
+"name": "spacing",
+"label": "Spacing",
+"tag": "spcg",
+"minValue": 0,
+"defaultValue": 0,
+"maxValue": 100
+},
+{
+"name": "Outline",
+"label": "Outline",
+"tag": "OTLN",
+"minValue": 0,
+"defaultValue": 0,
+"maxValue": 200
+}
+],
+"sources": {},
+"customData": {}
+}
