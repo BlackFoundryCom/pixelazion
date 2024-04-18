@@ -33,6 +33,14 @@
 "minValue": 0,
 "defaultValue": 0,
 "maxValue": 200
+},
+{
+"name": "fill",
+"label": "Fill",
+"tag": "fill",
+"minValue": 0,
+"defaultValue": 0,
+"maxValue": 100
 }
 ],
 "sources": {},

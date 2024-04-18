@@ -411,8 +411,10 @@
 "fuse4b": 0,
 "round1": 100,
 "round2": 100,
+"round2\n": 100,
 "round3": 100,
 "round4": 100,
+"round4\n": 100,
 "size": 100
 }
 },
@@ -432,6 +434,7 @@
 "fuse4b": 0,
 "round1": 100,
 "round2": 100,
+"round2\n": 100,
 "round3": 0,
 "round4": 0,
 "size": 100
@@ -522,6 +525,7 @@
 "fuse4b": 0,
 "round1": 100,
 "round2": 100,
+"round2\n": 100,
 "round3": 0,
 "round4": 0,
 "size": 100
@@ -633,8 +637,10 @@
 "fuse4b": 0,
 "round1": 100,
 "round2": 100,
+"round2\n": 100,
 "round3": 100,
 "round4": 100,
+"round4\n": 100,
 "size": 100
 }
 },
@@ -654,6 +660,7 @@
 "fuse4b": 0,
 "round1": 100,
 "round2": 100,
+"round2\n": 100,
 "round3": 0,
 "round4": 0,
 "size": 100
@@ -744,6 +751,7 @@
 "fuse4b": 0,
 "round1": 100,
 "round2": 100,
+"round2\n": 100,
 "round3": 0,
 "round4": 0,
 "size": 100

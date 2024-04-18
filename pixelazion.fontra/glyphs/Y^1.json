@@ -11,6 +11,13 @@
 "location": {
 "Pixel": 100
 }
+},
+{
+"name": "spacing=100",
+"layerName": "spacing=100",
+"location": {
+"spacing": 100
+}
 }
 ],
 "layers": {
@@ -330,6 +337,164 @@
 }
 ],
 "xAdvance": 840
+}
+},
+"spacing=100": {
+"glyph": {
+"components": [
+{
+"name": "comp.00",
+"transformation": {
+"translateX": 280,
+"translateY": 280
+},
+"location": {
+"fuse1a": 0,
+"fuse2a": 0,
+"fuse3a": 0,
+"fuse4a": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+},
+{
+"name": "comp.00",
+"transformation": {
+"translateX": 140,
+"translateY": 420
+},
+"location": {
+"fuse1a": 0,
+"fuse2a": 0,
+"fuse3a": 0,
+"fuse4a": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+},
+{
+"name": "comp.00",
+"transformation": {
+"translateX": 140,
+"translateY": 560
+},
+"location": {
+"fuse1a": 0,
+"fuse2a": 0,
+"fuse3a": 0,
+"fuse4a": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+},
+{
+"name": "comp.00",
+"transformation": {
+"translateX": 420,
+"translateY": 420
+},
+"location": {
+"fuse1a": 0,
+"fuse2a": 0,
+"fuse3a": 0,
+"fuse4a": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+},
+{
+"name": "comp.00",
+"transformation": {
+"translateX": 420,
+"translateY": 560
+},
+"location": {
+"fuse1a": 0,
+"fuse2a": 0,
+"fuse3a": 0,
+"fuse4a": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+},
+{
+"name": "comp.00",
+"transformation": {
+"translateX": 280
+},
+"location": {
+"fuse1a": 0,
+"fuse2a": 0,
+"fuse3a": 0,
+"fuse4a": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+},
+{
+"name": "comp.00",
+"transformation": {
+"translateY": 700
+},
+"location": {
+"fuse1a": 0,
+"fuse2a": 0,
+"fuse3a": 0,
+"fuse4a": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+},
+{
+"name": "comp.00",
+"transformation": {
+"translateX": 560,
+"translateY": 700
+},
+"location": {
+"fuse1a": 0,
+"fuse2a": 0,
+"fuse3a": 0,
+"fuse4a": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+},
+{
+"name": "comp.00",
+"transformation": {
+"translateX": 280,
+"translateY": 140
+},
+"location": {
+"fuse1a": 0,
+"fuse2a": 0,
+"fuse3a": 0,
+"fuse4a": 0,
+"round1": 0,
+"round2": 0,
+"round3": 0,
+"round4": 0
+}
+}
+],
+"xAdvance": 700
 }
 }
 }

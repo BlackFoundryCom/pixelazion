@@ -29,9 +29,14 @@ a;U+0061
 b;U+0062
 c;U+0063
 comp.00;
+comp.00b;
 comp.01;
 comp.02;
 comp.03;
+comp.04;
+comp.04b;
+comp.05;
+comp.06;
 d;U+0064
 e;U+0065
 f;U+0066

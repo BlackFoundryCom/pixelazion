@@ -65,19 +65,19 @@
 }
 },
 {
-"name": "Outline=200,fuse1a=1",
-"layerName": "Outline=200,fuse1a=1",
+"name": "Outline=200,fuse1a=0.1",
+"layerName": "Outline=200,fuse1a=0.1",
 "location": {
 "Outline": 200,
-"fuse1a": 1
+"fuse1a": 0.1
 }
 },
 {
-"name": "Outline=200,round1=1",
-"layerName": "Outline=200,round1=1",
+"name": "Outline=200,round1=0.1",
+"layerName": "Outline=200,round1=0.1",
 "location": {
 "Outline": 200,
-"round1": 1
+"round1": 0.1
 }
 }
 ],
@@ -230,7 +230,7 @@
 "xAdvance": 140
 }
 },
-"Outline=200,fuse1a=1": {
+"Outline=200,fuse1a=0.1": {
 "glyph": {
 "path": {
 "contours": [
@@ -378,7 +378,7 @@
 "xAdvance": 140
 }
 },
-"Outline=200,round1=1": {
+"Outline=200,round1=0.1": {
 "glyph": {
 "path": {
 "contours": [
