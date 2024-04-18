@@ -16,4 +16,5 @@ To build the font, run in the Terminal:
 `source setupvenv.sh`
 
 then:
+
 `sh export_and_build.sh`
