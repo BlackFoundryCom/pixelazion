@@ -1,12 +1,12 @@
 # Pixelazion
 
-This project is being made with ![Fontra](https://fontra.xyz). 
-It is making intensive use of variable components used as 'pixel' to shape the letterforms.
+This project is being made with Fontra https://fontra.xyz
+It is making intensive use of Variable Components used as 'pixels' to shape the letterforms.
 ![video](documentation/Pixelazion.mp4)
 
 # Build
 
-TO build the font, run in the Terminal:
+To build the font, run in the Terminal:
 `source setupvenv.sh`
 
 then:
