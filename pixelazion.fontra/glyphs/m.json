@@ -1923,8 +1923,10 @@
 },
 "location": {
 "fuse1a": 100,
+"fuse1a\n": 100,
 "fuse1b": 0,
 "fuse2a": 100,
+"fuse2a\n": 100,
 "fuse2b": 0,
 "round2": 0,
 "size": 100
@@ -1938,11 +1940,13 @@
 },
 "location": {
 "fuse3a": 100,
+"fuse3a\n": 100,
 "fuse3b": 0,
 "fuse4a": 100,
 "fuse4b": 0,
 "round1": 100,
 "round2": 100,
+"round2\n": 100,
 "size": 100
 }
 },
@@ -1954,6 +1958,7 @@
 },
 "location": {
 "fuse2a": 100,
+"fuse2a\n": 100,
 "fuse2b": 0,
 "round1": 100,
 "round3": 0,
@@ -2048,7 +2053,9 @@
 },
 "location": {
 "fuse1a": 100,
+"fuse1a\n": 100,
 "round2": 100,
+"round2\n": 100,
 "size": 100
 }
 },
@@ -2060,10 +2067,12 @@
 },
 "location": {
 "fuse3a": 100,
+"fuse3a\n": 100,
 "fuse4a": 100,
 "fuse4b": 0,
 "round1": 100,
 "round2": 100,
+"round2\n": 100,
 "size": 100
 }
 },
@@ -2097,15 +2106,8 @@
 "fuse1a": 0,
 "fuse1b": 0,
 "fuse2a": 0,
-"fuse2b": 0,
 "fuse3a": 0,
-"fuse3b": 0,
 "fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -2116,18 +2118,6 @@
 "translateY": 280
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -2138,18 +2128,15 @@
 "translateY": 420
 },
 "location": {
-"fuse1a": 0,
+"fuse1a": 100,
+"fuse1a\n": 0,
 "fuse1b": 0,
-"fuse2a": 0,
+"fuse2a": 100,
+"fuse2a\n": 0,
 "fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
 "round1": 100,
-"round2": 100,
-"round3": 0,
-"round4": 0,
+"round2": 0,
+"round2\n": 100,
 "size": 100
 }
 },
@@ -2159,18 +2146,18 @@
 "translateX": 210
 },
 "location": {
-"fuse1a": 100,
-"fuse1b": 0,
-"fuse2a": 100,
-"fuse2b": 0,
-"fuse3a": 0,
+"fuse1a\n": 100,
+"fuse2a\n": 100,
+"fuse3a": 100,
+"fuse3a\n": 0,
 "fuse3b": 0,
 "fuse4a": 0,
 "fuse4b": 0,
 "round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
+"round2": 100,
+"round2\n": 0,
+"round3": 100,
+"round4\n": 100,
 "size": 100
 }
 },
@@ -2181,16 +2168,11 @@
 "translateY": 420
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
+"fuse2a": 100,
+"fuse2a\n": 0,
 "fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
 "round1": 100,
-"round2": 100,
+"round2\n": 100,
 "round3": 0,
 "round4": 0,
 "size": 100
@@ -2203,17 +2185,10 @@
 "translateY": 140
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
 "fuse2a": 0,
 "fuse2b": 0,
 "fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
 "round1": 0,
-"round2": 0,
-"round3": 0,
 "round4": 0,
 "size": 100
 }
@@ -2225,18 +2200,9 @@
 "translateY": 280
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
 "fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
 "fuse4b": 0,
 "round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -2247,17 +2213,9 @@
 },
 "location": {
 "fuse1a": 0,
-"fuse1b": 0,
 "fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 100,
+"round3": 100,
+"round4": 0,
 "size": 100
 }
 },
@@ -2268,14 +2226,6 @@
 },
 "location": {
 "fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
 "round2": 0,
 "round3": 0,
 "round4": 0,
@@ -2292,15 +2242,8 @@
 "fuse1a": 0,
 "fuse1b": 0,
 "fuse2a": 0,
-"fuse2b": 0,
 "fuse3a": 0,
-"fuse3b": 0,
 "fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -2311,18 +2254,6 @@
 "translateY": 280
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -2333,18 +2264,11 @@
 "translateY": 420
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
+"fuse1a": 100,
+"fuse1a\n": 0,
 "round1": 100,
 "round2": 100,
-"round3": 0,
-"round4": 0,
+"round2\n": 100,
 "size": 100
 }
 },
@@ -2354,18 +2278,17 @@
 "translateX": 490
 },
 "location": {
-"fuse1a": 100,
-"fuse1b": 0,
-"fuse2a": 100,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
+"fuse1a\n": 100,
+"fuse2a\n": 100,
+"fuse3a": 100,
+"fuse3a\n": 0,
 "fuse4a": 0,
 "fuse4b": 0,
 "round1": 0,
-"round2": 0,
-"round3": 0.268130745658836,
-"round4": 1.90245148110317,
+"round2": 100,
+"round2\n": 0,
+"round3": 100,
+"round4\n": 100,
 "size": 100
 }
 },
@@ -2376,17 +2299,9 @@
 },
 "location": {
 "fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
 "round2": 0,
-"round3": 100,
-"round4": 0,
+"round3": 0,
+"round4": 100,
 "size": 100
 }
 }
@@ -2430,8 +2345,10 @@
 },
 "location": {
 "fuse1a": 100,
+"fuse1a\n": 100,
 "fuse1b": 0,
 "fuse2a": 100,
+"fuse2a\n": 100,
 "fuse2b": 0,
 "round2": 0,
 "size": 100
@@ -2445,11 +2362,13 @@
 },
 "location": {
 "fuse3a": 100,
+"fuse3a\n": 100,
 "fuse3b": 0,
 "fuse4a": 100,
 "fuse4b": 0,
 "round1": 100,
 "round2": 100,
+"round2\n": 100,
 "size": 100
 }
 },
@@ -2461,6 +2380,7 @@
 },
 "location": {
 "fuse2a": 100,
+"fuse2a\n": 100,
 "fuse2b": 0,
 "round1": 100,
 "round3": 0,
@@ -2555,7 +2475,9 @@
 },
 "location": {
 "fuse1a": 100,
+"fuse1a\n": 100,
 "round2": 100,
+"round2\n": 100,
 "size": 100
 }
 },
@@ -2567,10 +2489,12 @@
 },
 "location": {
 "fuse3a": 100,
+"fuse3a\n": 100,
 "fuse4a": 100,
 "fuse4b": 0,
 "round1": 100,
 "round2": 100,
+"round2\n": 100,
 "size": 100
 }
 },
@@ -2604,15 +2528,8 @@
 "fuse1a": 0,
 "fuse1b": 0,
 "fuse2a": 0,
-"fuse2b": 0,
 "fuse3a": 0,
-"fuse3b": 0,
 "fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -2623,18 +2540,6 @@
 "translateY": 280
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -2645,18 +2550,13 @@
 "translateY": 420
 },
 "location": {
-"fuse1a": 0,
+"fuse1a": 100,
+"fuse1a\n": 0,
 "fuse1b": 0,
-"fuse2a": 0,
+"fuse2a": 100,
+"fuse2a\n": 0,
 "fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
 "round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -2667,18 +2567,14 @@
 "translateY": 420
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
 "fuse3a": 100,
+"fuse3a\n": 0,
 "fuse3b": 0,
-"fuse4a": 100,
+"fuse4a": 0,
 "fuse4b": 0,
 "round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
+"round2": 100,
+"round2\n": 0,
 "size": 100
 }
 },
@@ -2689,16 +2585,10 @@
 "translateY": 420
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
+"fuse2a": 100,
+"fuse2a\n": 0,
 "fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
 "round1": 100,
-"round2": 0,
 "round3": 0,
 "round4": 0,
 "size": 100
@@ -2711,17 +2601,10 @@
 "translateY": 140
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
 "fuse2a": 0,
 "fuse2b": 0,
 "fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
 "round1": 0,
-"round2": 0,
-"round3": 0,
 "round4": 0,
 "size": 100
 }
@@ -2733,18 +2616,9 @@
 "translateY": 280
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
 "fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
 "fuse4b": 0,
 "round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -2755,15 +2629,7 @@
 },
 "location": {
 "fuse1a": 0,
-"fuse1b": 0,
 "fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
 "round3": 100,
 "round4": 0,
 "size": 100
@@ -2776,14 +2642,6 @@
 },
 "location": {
 "fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
 "round2": 0,
 "round3": 0,
 "round4": 0,
@@ -2800,15 +2658,8 @@
 "fuse1a": 0,
 "fuse1b": 0,
 "fuse2a": 0,
-"fuse2b": 0,
 "fuse3a": 0,
-"fuse3b": 0,
 "fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -2819,18 +2670,6 @@
 "translateY": 280
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -2841,18 +2680,10 @@
 "translateY": 420
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
+"fuse1a": 100,
+"fuse1a\n": 0,
 "round2": 100,
-"round3": 0,
-"round4": 0,
+"round2\n": 100,
 "size": 100
 }
 },
@@ -2863,18 +2694,13 @@
 "translateY": 420
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
 "fuse3a": 100,
-"fuse3b": 0,
-"fuse4a": 100,
+"fuse3a\n": 0,
+"fuse4a": 0,
 "fuse4b": 0,
 "round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
+"round2": 100,
+"round2\n": 0,
 "size": 100
 }
 },
@@ -2885,14 +2711,6 @@
 },
 "location": {
 "fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
 "round2": 0,
 "round3": 0,
 "round4": 100,
@@ -2916,15 +2734,8 @@
 "fuse1a": 0,
 "fuse1b": 0,
 "fuse2a": 0,
-"fuse2b": 0,
 "fuse3a": 0,
-"fuse3b": 0,
 "fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -2935,18 +2746,6 @@
 "translateY": 280
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -2957,18 +2756,15 @@
 "translateY": 420
 },
 "location": {
-"fuse1a": 0,
+"fuse1a": 100,
+"fuse1a\n": 0,
 "fuse1b": 0,
-"fuse2a": 0,
+"fuse2a": 100,
+"fuse2a\n": 0,
 "fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
 "round1": 100,
-"round2": 100,
-"round3": 0,
-"round4": 0,
+"round2": 0,
+"round2\n": 100,
 "size": 100
 }
 },
@@ -2979,18 +2775,18 @@
 "translateY": 280
 },
 "location": {
-"fuse1a": 100,
-"fuse1b": 0,
-"fuse2a": 100,
-"fuse2b": 0,
+"fuse1a\n": 100,
+"fuse2a\n": 100,
 "fuse3a": 100,
+"fuse3a\n": 0,
 "fuse3b": 0,
-"fuse4a": 100,
+"fuse4a": 0,
 "fuse4b": 0,
 "round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
+"round2": 100,
+"round2\n": 0,
+"round3": 100,
+"round4\n": 100,
 "size": 100
 }
 },
@@ -3001,16 +2797,11 @@
 "translateY": 420
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
+"fuse2a": 100,
+"fuse2a\n": 0,
 "fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
 "round1": 100,
-"round2": 100,
+"round2\n": 100,
 "round3": 0,
 "round4": 0,
 "size": 100
@@ -3023,17 +2814,10 @@
 "translateY": 140
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
 "fuse2a": 0,
 "fuse2b": 0,
 "fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
 "round1": 0,
-"round2": 0,
-"round3": 0,
 "round4": 0,
 "size": 100
 }
@@ -3045,18 +2829,9 @@
 "translateY": 280
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
 "fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
 "fuse4b": 0,
 "round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -3067,15 +2842,7 @@
 },
 "location": {
 "fuse1a": 0,
-"fuse1b": 0,
 "fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
 "round3": 100,
 "round4": 0,
 "size": 100
@@ -3088,14 +2855,6 @@
 },
 "location": {
 "fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
 "round2": 0,
 "round3": 0,
 "round4": 0,
@@ -3112,15 +2871,8 @@
 "fuse1a": 0,
 "fuse1b": 0,
 "fuse2a": 0,
-"fuse2b": 0,
 "fuse3a": 0,
-"fuse3b": 0,
 "fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -3131,18 +2883,6 @@
 "translateY": 280
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -3153,18 +2893,11 @@
 "translateY": 420
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
+"fuse1a": 100,
+"fuse1a\n": 0,
 "round1": 100,
 "round2": 100,
-"round3": 0,
-"round4": 0,
+"round2\n": 100,
 "size": 100
 }
 },
@@ -3175,18 +2908,17 @@
 "translateY": 280
 },
 "location": {
-"fuse1a": 100,
-"fuse1b": 0,
-"fuse2a": 100,
-"fuse2b": 0,
+"fuse1a\n": 100,
+"fuse2a\n": 100,
 "fuse3a": 100,
-"fuse3b": 0,
-"fuse4a": 100,
+"fuse3a\n": 0,
+"fuse4a": 0,
 "fuse4b": 0,
 "round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
+"round2": 100,
+"round2\n": 0,
+"round3": 100,
+"round4\n": 100,
 "size": 100
 }
 },
@@ -3197,14 +2929,6 @@
 },
 "location": {
 "fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
 "round2": 0,
 "round3": 0,
 "round4": 100,
@@ -3228,15 +2952,8 @@
 "fuse1a": 0,
 "fuse1b": 0,
 "fuse2a": 0,
-"fuse2b": 0,
 "fuse3a": 0,
-"fuse3b": 0,
 "fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -3247,18 +2964,6 @@
 "translateY": 280
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -3269,18 +2974,15 @@
 "translateY": 420
 },
 "location": {
-"fuse1a": 0,
+"fuse1a": 100,
+"fuse1a\n": 0,
 "fuse1b": 0,
-"fuse2a": 0,
+"fuse2a": 100,
+"fuse2a\n": 0,
 "fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
 "round1": 100,
-"round2": 100,
-"round3": 0,
-"round4": 0,
+"round2": 0,
+"round2\n": 100,
 "size": 100
 }
 },
@@ -3291,18 +2993,18 @@
 "translateY": 140
 },
 "location": {
-"fuse1a": 100,
-"fuse1b": 0,
-"fuse2a": 100,
-"fuse2b": 0,
+"fuse1a\n": 100,
+"fuse2a\n": 100,
 "fuse3a": 100,
+"fuse3a\n": 0,
 "fuse3b": 0,
-"fuse4a": 100,
+"fuse4a": 0,
 "fuse4b": 0,
 "round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
+"round2": 100,
+"round2\n": 0,
+"round3": 100,
+"round4\n": 100,
 "size": 100
 }
 },
@@ -3313,16 +3015,11 @@
 "translateY": 420
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
+"fuse2a": 100,
+"fuse2a\n": 0,
 "fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
 "round1": 100,
-"round2": 100,
+"round2\n": 100,
 "round3": 0,
 "round4": 0,
 "size": 100
@@ -3335,17 +3032,10 @@
 "translateY": 140
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
 "fuse2a": 0,
 "fuse2b": 0,
 "fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
 "round1": 0,
-"round2": 0,
-"round3": 0,
 "round4": 0,
 "size": 100
 }
@@ -3357,18 +3047,9 @@
 "translateY": 280
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
 "fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
 "fuse4b": 0,
 "round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -3379,15 +3060,7 @@
 },
 "location": {
 "fuse1a": 0,
-"fuse1b": 0,
 "fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
 "round3": 100,
 "round4": 0,
 "size": 100
@@ -3400,14 +3073,6 @@
 },
 "location": {
 "fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
 "round2": 0,
 "round3": 0,
 "round4": 0,
@@ -3424,15 +3089,8 @@
 "fuse1a": 0,
 "fuse1b": 0,
 "fuse2a": 0,
-"fuse2b": 0,
 "fuse3a": 0,
-"fuse3b": 0,
 "fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -3443,18 +3101,6 @@
 "translateY": 280
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
 "size": 100
 }
 },
@@ -3465,18 +3111,11 @@
 "translateY": 420
 },
 "location": {
-"fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
+"fuse1a": 100,
+"fuse1a\n": 0,
 "round1": 100,
 "round2": 100,
-"round3": 0,
-"round4": 0,
+"round2\n": 100,
 "size": 100
 }
 },
@@ -3487,18 +3126,17 @@
 "translateY": 140
 },
 "location": {
-"fuse1a": 100,
-"fuse1b": 0,
-"fuse2a": 100,
-"fuse2b": 0,
+"fuse1a\n": 100,
+"fuse2a\n": 100,
 "fuse3a": 100,
-"fuse3b": 0,
-"fuse4a": 100,
+"fuse3a\n": 0,
+"fuse4a": 0,
 "fuse4b": 0,
 "round1": 0,
-"round2": 0,
-"round3": 0,
-"round4": 0,
+"round2": 100,
+"round2\n": 0,
+"round3": 100,
+"round4\n": 100,
 "size": 100
 }
 },
@@ -3509,14 +3147,6 @@
 },
 "location": {
 "fuse1a": 0,
-"fuse1b": 0,
-"fuse2a": 0,
-"fuse2b": 0,
-"fuse3a": 0,
-"fuse3b": 0,
-"fuse4a": 0,
-"fuse4b": 0,
-"round1": 0,
 "round2": 0,
 "round3": 0,
 "round4": 100,

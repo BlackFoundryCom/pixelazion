@@ -1284,6 +1284,7 @@
 "fuse4a": 0,
 "round1": 0,
 "round2": 100,
+"round2\n": 100,
 "round3": 0,
 "round4": 0
 }
@@ -1301,7 +1302,8 @@
 "round1": 0,
 "round2": 0,
 "round3": 0,
-"round4": 100
+"round4": 100,
+"round4\n": 100
 }
 }
 ],
@@ -1340,6 +1342,7 @@
 "fuse4a": 0,
 "round1": 100,
 "round2": 100,
+"round2\n": 100,
 "round3": 0,
 "round4": 0
 }
@@ -1420,11 +1423,12 @@
 "location": {
 "fuse1a": 0,
 "fuse2a": 100,
+"fuse2a\n": 100,
 "fuse3a": 0,
 "fuse4a": 0,
 "round1": 0,
 "round2": 0,
-"round3": 0,
+"round3": 100,
 "round4": 0
 }
 },
@@ -1435,13 +1439,15 @@
 },
 "location": {
 "fuse1a": 100,
+"fuse1a\n": 100,
 "fuse2a": 0,
 "fuse3a": 0,
 "fuse4a": 0,
 "round1": 0,
 "round2": 0,
 "round3": 0,
-"round4": 0
+"round4": 0,
+"round4\n": 100
 }
 },
 {
@@ -1456,8 +1462,10 @@
 "fuse4a": 0,
 "round1": 0,
 "round2": 100,
+"round2\n": 100,
 "round3": 0,
-"round4": 0
+"round4": 0,
+"round4\n": 0
 }
 },
 {
@@ -1470,7 +1478,8 @@
 "round1": 0,
 "round2": 0,
 "round3": 0,
-"round4": 100
+"round4": 100,
+"round4\n": 100
 }
 }
 ],
@@ -1507,8 +1516,9 @@
 "fuse2a": 0,
 "fuse3a": 0,
 "fuse4a": 0,
-"round1": 0,
+"round1": 100,
 "round2": 0,
+"round2\n": 100,
 "round3": 0,
 "round4": 0
 }
@@ -1590,11 +1600,12 @@
 "location": {
 "fuse1a": 0,
 "fuse2a": 100,
+"fuse2a\n": 100,
 "fuse3a": 0,
 "fuse4a": 0,
 "round1": 0,
 "round2": 0,
-"round3": 0,
+"round3": 100,
 "round4": 0
 }
 },
@@ -1606,13 +1617,15 @@
 },
 "location": {
 "fuse1a": 100,
+"fuse1a\n": 100,
 "fuse2a": 0,
 "fuse3a": 0,
 "fuse4a": 0,
 "round1": 0,
 "round2": 0,
 "round3": 0,
-"round4": 0
+"round4": 0,
+"round4\n": 100
 }
 },
 {
@@ -1628,6 +1641,7 @@
 "fuse4a": 0,
 "round1": 0,
 "round2": 100,
+"round2\n": 100,
 "round3": 0,
 "round4": 0
 }
@@ -1645,7 +1659,8 @@
 "round1": 0,
 "round2": 0,
 "round3": 0,
-"round4": 100
+"round4": 100,
+"round4\n": 100
 }
 }
 ],
@@ -1682,8 +1697,9 @@
 "fuse2a": 0,
 "fuse3a": 0,
 "fuse4a": 0,
-"round1": 0,
+"round1": 100,
 "round2": 0,
+"round2\n": 100,
 "round3": 0,
 "round4": 0
 }
@@ -1765,11 +1781,12 @@
 "location": {
 "fuse1a": 0,
 "fuse2a": 100,
+"fuse2a\n": 100,
 "fuse3a": 0,
 "fuse4a": 0,
 "round1": 0,
 "round2": 0,
-"round3": 0,
+"round3": 100,
 "round4": 0
 }
 },
@@ -1781,13 +1798,16 @@
 },
 "location": {
 "fuse1a": 100,
+"fuse1a\n": 100,
 "fuse2a": 0,
+"fuse2a\n": 0,
 "fuse3a": 0,
 "fuse4a": 0,
 "round1": 0,
 "round2": 0,
 "round3": 0,
-"round4": 0
+"round4": 0,
+"round4\n": 100
 }
 },
 {
@@ -1803,6 +1823,7 @@
 "fuse4a": 0,
 "round1": 0,
 "round2": 100,
+"round2\n": 100,
 "round3": 0,
 "round4": 0
 }
@@ -1820,7 +1841,8 @@
 "round1": 0,
 "round2": 0,
 "round3": 0,
-"round4": 100
+"round4": 100,
+"round4\n": 100
 }
 }
 ],
@@ -1857,8 +1879,9 @@
 "fuse2a": 0,
 "fuse3a": 0,
 "fuse4a": 0,
-"round1": 0,
+"round1": 100,
 "round2": 0,
+"round2\n": 100,
 "round3": 0,
 "round4": 0
 }
@@ -1940,11 +1963,12 @@
 "location": {
 "fuse1a": 0,
 "fuse2a": 100,
+"fuse2a\n": 100,
 "fuse3a": 0,
 "fuse4a": 0,
 "round1": 0,
 "round2": 0,
-"round3": 0,
+"round3": 100,
 "round4": 0
 }
 },
@@ -1956,13 +1980,15 @@
 },
 "location": {
 "fuse1a": 100,
+"fuse1a\n": 100,
 "fuse2a": 0,
 "fuse3a": 0,
 "fuse4a": 0,
 "round1": 0,
 "round2": 0,
 "round3": 0,
-"round4": 0
+"round4": 0,
+"round4\n": 100
 }
 },
 {
@@ -1978,6 +2004,7 @@
 "fuse4a": 0,
 "round1": 0,
 "round2": 100,
+"round2\n": 100,
 "round3": 0,
 "round4": 0
 }
@@ -1995,7 +2022,8 @@
 "round1": 0,
 "round2": 0,
 "round3": 0,
-"round4": 100
+"round4": 100,
+"round4\n": 100
 }
 }
 ],
@@ -2032,8 +2060,9 @@
 "fuse2a": 0,
 "fuse3a": 0,
 "fuse4a": 0,
-"round1": 0,
+"round1": 100,
 "round2": 0,
+"round2\n": 100,
 "round3": 0,
 "round4": 0
 }
@@ -2115,11 +2144,12 @@
 "location": {
 "fuse1a": 0,
 "fuse2a": 100,
+"fuse2a\n": 100,
 "fuse3a": 0,
 "fuse4a": 0,
 "round1": 0,
 "round2": 0,
-"round3": 0,
+"round3": 100,
 "round4": 0
 }
 },
@@ -2131,13 +2161,15 @@
 },
 "location": {
 "fuse1a": 100,
+"fuse1a\n": 100,
 "fuse2a": 0,
 "fuse3a": 0,
 "fuse4a": 0,
 "round1": 0,
 "round2": 0,
 "round3": 0,
-"round4": 0
+"round4": 0,
+"round4\n": 100
 }
 },
 {
@@ -2153,6 +2185,7 @@
 "fuse4a": 0,
 "round1": 0,
 "round2": 100,
+"round2\n": 100,
 "round3": 0,
 "round4": 0
 }
@@ -2170,7 +2203,8 @@
 "round1": 0,
 "round2": 0,
 "round3": 0,
-"round4": 100
+"round4": 100,
+"round4\n": 100
 }
 }
 ],
