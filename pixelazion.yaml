@@ -1,19 +1,19 @@
 steps:
-- action: input
+- input: fontra-read
   source: pixelazion.fontra
 
-- action: set-font-info
+- filter: set-font-info
   fontInfo:
     familyName: Pixelazion
     versionMajor: 0
     versionMinor: 1
 
-- action: compile-fontmake
+- output: compile-fontmake
   destination: ttf/pixelazion.ttf
   steps:
-  - action: decompose-composites
+  - filter: decompose-composites
     onlyVariableComposites: true
-  - action: drop-unreachable-glyphs
+  - filter: drop-unreachable-glyphs
 
-- action: compile-varc
+- output: compile-varc
   destination: ttf-varco/pixelazion-glyf-1.ttf
